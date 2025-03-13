@@ -5,8 +5,7 @@ col1 = int(input())
 row2 = int(input())
 col2 = int(input())
 
-a = row1+col1
-b = row2+col2
+
 
 if a%2 == b%2:
     print("YES");
